@@ -1,3 +1,11 @@
+#--------------------------------------------------------------------------------------
+#Aryaman Majumdar
+#
+#24th May, 2021
+#
+#Predicting between COVID-19, viral pneumonia and other from X-Ray images using a CNN.
+#--------------------------------------------------------------------------------------
+
 import numpy as np
 from scipy import special
 import os
