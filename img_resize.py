@@ -1,3 +1,11 @@
+#--------------------------------------------------------------------------------------
+#Aryaman Majumdar
+#
+#24th May, 2021
+#
+#Predicting between COVID-19, viral pneumonia and other from X-Ray images using a CNN.
+#Here, we prepare the data - rescaling the original JPGs/JPEGs and converting to CSV.
+#--------------------------------------------------------------------------------------
 
 """
 Created on Sat May 22 10:39:47 2021
